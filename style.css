@@ -1,6 +1,6 @@
 body {
     background-color: .++ azure;
-    color: white;
+    color: black;
     font-family: 'Arial', sans-serif;
     display: flex;
     justify-content: center;
@@ -10,8 +10,8 @@ body {
 }
 
 button {
-    background-color: azure;
-    color: white;
+    background-color: rgb(255, 242, 240);
+    color: rgb(255, 255, 255);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
